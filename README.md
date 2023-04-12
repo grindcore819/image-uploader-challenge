@@ -53,6 +53,7 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 - [NextJS](https://nextjs.org/)
 - [PrismaDB](https://www.prisma.io/)
 - [Tailwind](https://tailwindcss.com/)
+- [tRPC](https://trpc.io/))
 
 ## Features
 
